@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operapapinius12statuoft_0027.png"; bbox 0 0 1956 3086; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 223 1086 1657 1427">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 223 1086 1657 1427">
+     <span class='ocr_line' id='line_1_1' title="bbox 453 1086 1428 1221; baseline 0.001 -55"><span class='ocrx_word' id='word_1_1' title='bbox 453 1087 539 1221; x_wconf 67' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_2' title='bbox 584 1087 1023 1168; x_wconf 89' lang='lat' dir='ltr'>PAPINII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1069 1086 1428 1168; x_wconf 80' lang='lat' dir='ltr'>STATII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 223 1275 1657 1427; baseline 0.001 -15"><span class='ocrx_word' id='word_1_4' title='bbox 223 1313 288 1412; x_wconf 73' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_5' title='bbox 389 1314 445 1412; x_wconf 87' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_6' title='bbox 544 1275 633 1413; x_wconf 76' lang='lat' dir='ltr'>L&#39;</span> <span class='ocrx_word' id='word_1_7' title='bbox 731 1316 834 1414; x_wconf 88' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_8' title='bbox 938 1317 1065 1427; x_wconf 17' lang='lat' dir='ltr'>Al</span> <span class='ocrx_word' id='word_1_9' title='bbox 1143 1315 1238 1413; x_wconf 78' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_10' title='bbox 1339 1315 1441 1413; x_wconf 87' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_11' title='bbox 1543 1314 1657 1413; x_wconf 87' lang='lat' dir='ltr'>M</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 662 1562 1220 1630">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 662 1562 1220 1630">
+     <span class='ocr_line' id='line_1_3' title="bbox 662 1562 1220 1630; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 662 1562 1061 1630; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1133 1562 1220 1629; x_wconf 88' lang='lat' dir='ltr'>V.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
